@@ -1,5 +1,5 @@
 # hello-world
 My first repository
 
-I'm a completele newbie, learning to code. Starting with Python
+I'm a complete newbie, learning to code. Starting with Python
 
